@@ -13,3 +13,12 @@ From the rails console:
   m.password = "123"
   m.body #=> "Hello!"
 ```
+
+## Feature Wishlist
+* Validations around password absence/length
+* Better interface for setting/getting messages
+* Travis CI setup
+* Web interface for creating messages
+* Web interface for retrieving messages (search by name)
+* Deployment to heroku
+* Users/Devise
