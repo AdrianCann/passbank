@@ -18,6 +18,9 @@ group :development do
 end
 
 group :development, :test do
+  gem "capybara-webkit"
+  gem "factory_girl_rails"
+  gem 'launchy'
   gem 'rspec-rails', '~> 3.5'
   gem 'bundler-audit'
 end

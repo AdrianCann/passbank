@@ -20,7 +20,6 @@ From the rails console:
 ## Feature Wishlist
 * Validations around password absence/length
 * Better interface for setting/getting messages
-* Travis CI setup
 * Web interface for creating messages
 * Web interface for retrieving messages (search by name)
 * Deployment to heroku
