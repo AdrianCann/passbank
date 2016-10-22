@@ -1,4 +1,7 @@
-# Passbank
+# Passbank [![Build Status](https://travis-ci.org/AdrianCann/passbank.svg?branch=master)](https://travis-ci.org/AdrianCann/passbank)
+[![Code Climate](https://codeclimate.com/github/AdrianCann/passbank/badges/gpa.svg)](https://codeclimate.com/github/AdrianCann/passbank)
+[![Test Coverage](https://codeclimate.com/github/AdrianCann/passbank/badges/coverage.svg)](https://codeclimate.com/github/AdrianCann/passbank/coverage)
+[![Issue Count](https://codeclimate.com/github/AdrianCann/passbank/badges/issue_count.svg)](https://codeclimate.com/github/AdrianCann/passbank)
 
 ## Encrypted password/message storage
 
